@@ -53,7 +53,13 @@ class App {
 	
 	System.out.println("x + y = " + z);
 	
+	System.out.println("");
+	System.out.println("****************Zadanie 5***************");
 	
+	int a = 7,  b = 9, c = 12;
+	int triangleRegion = a + b + c;
+	
+	System.out.println("Obwód trójkąta = " + triangleRegion);
 	}
 
 
