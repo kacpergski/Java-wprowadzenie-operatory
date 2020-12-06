@@ -44,6 +44,16 @@ class App {
 	System.out.println("Days: " + days);
 	System.out.println("Account Balance: " + accountBalance);
 	
+	System.out.println("");
+	System.out.println("****************Zadanie 4***************");
+	
+	int x = 10;
+	int y = 20;
+	int z = x + y;
+	
+	System.out.println("x + y = " + z);
+	
+	
 	}
 
 
