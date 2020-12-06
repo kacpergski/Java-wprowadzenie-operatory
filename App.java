@@ -19,7 +19,7 @@ class App {
 	int r = 7;
 	
 	obwod = 2*pi*r;
-	System.out.println(" gi");
+	System.out.println("");
 	System.out.println("****************Zadanie 2***************");
 	System.out.println("R: " +r);
 	System.out.println("Obwód: " +obwod);
@@ -33,10 +33,12 @@ class App {
 	
 	
 	days = (double)minutes / 1440;
-	System.out.println("****************Zadanie 2***************");
+	
+	System.out.println("");
+	System.out.println("****************Zadanie 3***************");
 	
 	
-	System.out.println("Poodsumowanie podróży:");
+	System.out.println("Podsumowanie podróży:");
 	System.out.println("Kilometers: " + kilometers);
 	System.out.println("Minutes: " + minutes);
 	System.out.println("Days: " + days);
