@@ -60,6 +60,19 @@ class App {
 	int triangleRegion = a + b + c;
 	
 	System.out.println("Obwód trójkąta = " + triangleRegion);
+	
+	
+	System.out.println("");
+	System.out.println("****************Zadanie 6***************");
+	
+	int m=-4;
+	int n=m*-1;
+	
+	 int o=  m<0?n:m;
+	
+	System.out.println("Wart  m = " + m);
+	System.out.println("Wart bezwgl m = " + o);
+	
 	}
 
 
