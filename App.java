@@ -73,6 +73,18 @@ class App {
 	System.out.println("Wart  m = " + m);
 	System.out.println("Wart bezwgl m = " + o);
 	
+	System.out.println("");
+	System.out.println("****************Zadanie 7***************");
+	
+	int rn;
+	double rm;
+	rn = 47 % 10;
+	rm = 35.5 % 6;
+	 
+	
+	System.out.println("Reszta z dzielnia 47 przez 10 = " + rn);
+	System.out.println("Reszta z dzielnia 35.5 przez 6 = " + rm);
+	
 	}
 
 
